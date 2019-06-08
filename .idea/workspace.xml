@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a07e549-cbf0-4016-8b4d-64e2417d41a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/InterfaceTest/LiveApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/InterfaceTest/LiveApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterfaceTest/TestCase/TestCase.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/InterfaceTest/TestCase/TestCase.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/.idea/dkxinterfaceTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/.idea/dkxinterfaceTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/caselist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/caselist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/common/configEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/common/configEmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/common/configHttp.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/common/configHttp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/getpathInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/getpathInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/geturlParams.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/geturlParams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/readConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/readConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/readExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/readExcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/result/logs" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/result/logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/runAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/runAll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/testCase/test01case.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/testCase/test01case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_unitest/test_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/github_unitest/test_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/Interface/dubbo_feng.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/Interface/dubbo_feng.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/Interface/testFengzhuang.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/Interface/testFengzhuang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/Public/BSTestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/Public/BSTestRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/Public/fengzhuang_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/Public/fengzhuang_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/Public/get_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/Public/get_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/Public/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/Public/log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/Public/panduan.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/Public/panduan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/Public/py_Html.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/Public/py_Html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/Public/test_requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/Public/test_requests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/config/config_T.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/config/config_T.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/run_dubbo_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/run_dubbo_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/run_http_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/run_http_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou-python3/testCase/case.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou-python3/testCase/case.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/InterfaceTest" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="963" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhaihuide" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a07e549-cbf0-4016-8b4d-64e2417d41a9" name="Default Changelist" comment="" />
+      <created>1559275567919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559275567919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="963" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20695971" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>zhaihuide</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
